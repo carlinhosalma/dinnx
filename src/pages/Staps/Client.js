@@ -17,7 +17,7 @@ const Client = () => {
       </Container>
 
       <Container>
-      
+        <Title> COLOCAR O CARTÃO DE CRÉDITO </Title>
       </Container>
 
       <Container height={70} justify="flex-end">
